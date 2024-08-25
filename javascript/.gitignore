@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jest coverage reports
+coverage/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Optional: Logs from various tools or custom output
+*.log
