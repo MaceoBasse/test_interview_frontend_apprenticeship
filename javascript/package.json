@@ -2,7 +2,7 @@
   "name": "javascript-tasks",
   "version": "1.0.0",
   "description": "A set of JavaScript tasks including array manipulation, DOM interaction, and basic fetch.",
-  "main": "index.js",
+  "main": "basicFetch.js",
   "scripts": {
     "test": "jest"
   },
