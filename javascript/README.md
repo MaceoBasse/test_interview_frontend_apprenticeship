@@ -42,4 +42,4 @@ To test the implementation of Task 2, open the `domInteraction.html` file in a w
 
 ### Testing Task 3
 
-To test the implementation of Task 3, open the `fetchData.html` file in a web browser. You should see an unordered list with the titles of the first 5 todos from the API displayed on the page.
+To test the implementation of Task 3, open the `basicFetch.html` file in a web browser. You should see an unordered list with the titles of the first 5 todos from the API displayed on the page.
