@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
 import Greeting from './Greeting';
+import Counter from './Counter';
 
 function App() {
   return (
-    <div className="App">
+    <div className="center">
       <Greeting name="Maceo" />
+      <Counter />
     </div>
   );
 }
