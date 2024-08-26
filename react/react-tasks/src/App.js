@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Greeting from './Greeting';
-import Counter from './Counter';
-import NameList from './NameList';
+import Greeting from './components/Greeting';
+import Counter from './components/Counter';
+import NameList from './components/NameList';
 
 function App() {
   return (
